@@ -6,7 +6,8 @@ import android.view.View
 import android.widget.TextView
 import android.widget.Toast
 import android.content.Intent
-
+import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.activity_second.*
 
 
 class MainActivity : AppCompatActivity() {

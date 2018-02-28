@@ -11,6 +11,4 @@ class SecondActivity : AppCompatActivity() {
     }
 }
 
- internal companion object {
     const val TOTAL_COUNT = "total_count"
-}
